@@ -1,0 +1,65 @@
+.black{height: 40px;
+    background-color:black;
+}
+.logo{
+    color: white;
+}
+.anchor a{padding: 10px;
+    color: white;
+    border-right: 1px solid white;
+    text-decoration: none;    
+}
+.gray{
+    padding: 15px;
+    background-color: gray;
+}
+
+
+.blue{
+    background-color: blue;
+    
+}
+.image1{
+    height: 50px;
+    width: 200px;
+}
+.anchor1 a{
+    color: white;
+    padding: 15px;
+    border-right: 1px solid white;
+}
+
+#image2{
+    background-image: url(ola2.jpg);
+    background-size: cover;
+    height: 500px;
+}
+#overite{
+    text-align: center;
+}
+#pass{
+    text-align: center;
+}
+.design{
+     
+    margin:10px;
+    border: 2px solid black;
+}
+card-img {
+    height: 50px;
+}
+.aaa{ 
+    height:600px;
+    background-color: skyblue;
+
+}
+#ccc{
+    color: orangered;
+}
+
+.gray{
+    background-color: grey;
+}
+.white{
+    color: ivory;
+}
